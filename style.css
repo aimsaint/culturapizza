@@ -114,7 +114,7 @@ body {
 .hero {
   min-height: 100vh;
   background-image: linear-gradient(to right, rgba(255,255,255,0.9) 50%, transparent),
-                    url('image/fondo-hero-culturapizza.png');
+                    url('.image/fondo-hero-culturapizza.png');
   background-size: cover;
   background-position: center;
   display: grid;
